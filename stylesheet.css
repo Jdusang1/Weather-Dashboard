@@ -1,9 +1,24 @@
-#navbar {
-    font-size: 36px;
-    margin: auto;
-};
+header {
+    background-color: rgb(24, 173, 254);
+    padding: 12px;
+    text-align: center;
+    
+}
+
+header span {
+    font-size: 32px;
+    color: cornsilk;
+    text-align: center;
+    font-weight: bold;
+}
+
+#searchbar {
+    font-size: 14px;
+
+}
 
 #current {
-    font-size: 12px;
+    margin-bottom: 45px;
+    font-size: 36px;
 
-};
+}
