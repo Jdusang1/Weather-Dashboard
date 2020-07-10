@@ -1,1 +1,3 @@
-# Weather-Dashboard
+For this project we were to build a weather dashboard that recorded a searched cities weather info, displaying current weather and weather forecast. The dashboard will also store the recent searches and allow user to click on desired search and display that selections weather. The Dashboard was also supposed to display the uv index and display an icon referencing that days weather. I was unable to get the uv info displayed as well as the icon. I ran into some issues along the way with local storage that took much longer than expected. Over all the app is functioning but not quite to the level it should be. This project was great in wrapping my head around API's.    
+
+link to deployed application https://jdusang1.github.io/Weather-Dashboard/

@@ -18,12 +18,12 @@ header span {
 }
 
 #current {
-    margin-bottom: 45px;
-    font-size: 36px;
+   
 
 }
-#weatherForecast {
+.bg-primary {
+    display: table-cell;
+    background:  rgb(24, 173, 254);
     
-
-
 }
+
